@@ -107,7 +107,7 @@ When mentioning the Pearl in your press materials, it is kindly asked that you r
   * [Run your own agent](https://pearl.you), via the simple desktop app, Pearl. Getting simpler all the time!
   * [See live stats for Polystrat, the autonomous prediction agent on Polymarket, live in Pearl](https://www.pearl.you/polystrat)
   * [Read about prediction agents on Pearl including live statistics](https://olas.network/agent-economies/predict)
-  * [Twitter](https://twitter/pearldotyou)
+  * [Twitter](https://twitter.com/pearldotyou)
   * [Recent video appearances](https://olas.network/videos)
 
 ## Further Questions
