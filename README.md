@@ -100,9 +100,7 @@ When mentioning the Pearl in your press materials, it is kindly asked that you r
 * Pearl is a self-custodial AI agent app store that allows people to run and own autonomous AI agents directly on their devices. Through a simple desktop app, users can set up, manage, and monitor agents that perform real work across digital environments, with full visibility and control, and the potential to earn OLAS crypto activity rewards.
 
 #### Additional context
-Pearl agents can perform real, measurable work (such as prediction market trading, executing user-defined DeFi portfolio management, and social media audience growth) autonomously while you sleep or play. Pearl agents run locally on your device, not centralized servers, and you can see what your agent is doing at all times. You can fund the agent you wish to run simply by using a credit or debit card.
-
-Pearl is built on [Olas](https://olas.network), the platform for user-owned AI agents, and developed by [Valory](https://valory.xyz), the core contributors to the Olas ecosystem.
+* Pearl agents can perform real, measurable work (such as prediction market trading, executing user-defined DeFi portfolio management, and social media audience growth) autonomously while you sleep or play. Pearl agents run locally on your device, not centralized servers, and you can see what your agent is doing at all times. You can fund the agent you wish to run simply by using a credit or debit card. Pearl is built on [Olas](https://olas.network), the platform for user-owned AI agents, and developed by [Valory](https://valory.xyz), the core contributors to the Olas ecosystem.
 
 #### More on...
 
