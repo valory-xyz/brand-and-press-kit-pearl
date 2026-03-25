@@ -55,6 +55,10 @@ Marketing describing actions taken on or with Olas should use language describin
 ### Pearl logo
 Find the Pearl logo assets [here](https://drive.google.com/drive/folders/1fyyM3LrMFHf6vTPf4FMZZSVUd8hK7xmp?usp=sharing).
 
+| Do | Do not | 
+|---|---|
+| Feature the Pearl logo in articles, blog posts or other media mentions describing Pearl | Alter the Pearl logo in any way, including colors |
+| | Use the Pearl logo or logomark as part of, or in combination with another logo for any purpose |
 
 ### Powered by Olas badge
 Building an agent in Pearl means your agent is powered by Olas. You are encouraged to use the “Powered by Olas” badge to recognize this. By using these Badges, you agree to the Olas DAO's Usage Terms (see below). 
@@ -68,13 +72,6 @@ Building an agent in Pearl means your agent is powered by Olas. You are encourag
 |Use at a minimum badge height of 32px| |
 
 [Download the Powered by Olas badges here](https://github.com/contentwillvary/press-kit-olas/files/14792945/powered_by_olas_badges.zip)
-
-### Logos 
-
-| Do | Do not | 
-|---|---|
-| Feature the Pearl logo in articles, blog posts or other media mentions describing Pearl | Alter the Pearl logo in any way, including colors |
-| | Use the Pearl logo or logomark as part of, or in combination with another logo for any purpose |
 
 ### Fonts
 * Primary, for headlines: Inter, [available here](https://fonts.google.com/specimen/Inter)
