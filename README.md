@@ -1,28 +1,29 @@
-# Olas Brand and Press Kit
-This Olas Brand and Press Kit summarizes the Olas DAO's Brand Guidelines (inc. use of language and assets) and Information about Olas, formerly known as Autonolas (e.g. for Press Releases).
+# Pearl Brand and Press Kit
+This Pearl Brand and Press Kit summarizes the Valory's Brand Guidelines (inc. use of language and assets) and Information about Pearl (e.g. for Press Releases).
 
-![Olas Brand](https://github.com/user-attachments/assets/25a7be1d-8bc8-4e48-83b5-bab9b27c04bd)
+![Pearl brand](https://github.com/user-attachments/assets/1a4cee4b-c03c-4fc6-b917-0280db9495a8)
 
-## Brand Guidelines 
 
-The "Olas", "Autonolas" & "Pearl" names, logos, brands, and other trademarks, are property of Olas DAO (aka Autonolas DAO^) or its members, protected by copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws and may only be used per the Usage Terms (see below). These guidelines are designed to align with the [Olas DAO Constitution](https://gateway.autonolas.tech/ipfs/bafybeibrhz6hnxsxcbv7dkzerq4chssotexb276pidzwclbytzj7m4t47u) and can be updated from time to time by the Olas DAO as required. 
-These guidelines are intended to help people interacting with the Olas brand to understand how to use and display the Olas DAO's trademarks and copyrighted work in their own assets and materials.
+## Brand Guidelines
 
-^Olas was formerly known as 'Autonolas'. 
+The "Olas", "Autonolas", "Valory" & "Pearl" names, logos, brands, and other trademarks, are property of Olas DAO (formerly known as Autonolas DAO^) or its members, protected by copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws and may only be used per the Usage Terms (see below). These guidelines are designed to align with the [Olas DAO Constitution](https://gateway.autonolas.tech/ipfs/bafybeibrhz6hnxsxcbv7dkzerq4chssotexb276pidzwclbytzj7m4t47u) and can be updated from time to time by the Olas DAO as required. 
+These guidelines are intended to help people interacting with the Olas brand to understand how to use and display the Olas DAO and its members' trademarks and copyrighted work in their own assets and materials.
 
 ## Language
 
 Do:
-* Link to [olas.network](https://olas.network) in articles, blog posts or other media mentions describing Olas' own work.
-* Publicly claim only relationships to the Olas DAO itself that have been recorded in an [on-chain vote](https://boardroom.io/autonolas/overview) or [off-chain vote](https://snapshot.org/#/autonolas.eth), describing these relationships as they are expressed therein. Request DAO contributors' written approval prior to publicly mentioning an existing relationship between you and them, e.g. a partnership, sponsorship, or grant program. 
-* Use the specific language used in writing by the DAO in an on/off-chain vote and by DAO contributors regarding the relationship, e.g. 'we have received a grant from Valory, co-creators of Olas' or 'we are sponsoring an event with [name here], an Olas founding member'.
+* Link to [pearl.you](https://pearl.you) in articles, blog posts or other media mentions describing Pearl.
+* Publicly claim only relationships to Pearl or affiliated organisations that have been agreed in writing, e.g. an integration, partnership, sponsorship, or grant program. 
+* Use “Pearl” to refer to the desktop application (the product and home for its AI agents).
+* Use “Pearl.you” to refer to the website (marketing site, FAQ, and Press Kit).
+
 * Use the correct version of the Olas logo, i.e. the logo marked 'default', unless it is for listings or pre-approved co-marketing and therefore requires the relevant logo versions.
-* Those building on Olas must use descriptive phrases that make it clear your product is developed on Olas technology (“powered by” is preferred, but “built on” can also be used). Avoid phrases that imply an official partnership with Olas (“built with”, “developed with”, “partnered with”).
-Your company or product name should appear first, followed by Olas and the autonomous service or component name. Using 'Olas' in product or app names is prohibited because it confuses end users, e.g. 'OlasBots', etc.
+* Those appearing in the Pearl app store should reference this in communications about their agent. Agents in Pearl are by definition built on Olas and must use descriptive phrases that make this clear: “powered by Olas” is preferred, but “built on Olas” can also be used). Avoid phrases that imply an official partnership with Olas (“built with”, “developed with”, “partnered with”).
+Using 'Olas' or 'Pearl' in product or app names is prohibited and can confuses end users, e.g. 'Pearl Bot' or 'Olas Bot', etc.
 
 Do not:
-* Use the Olas logo (or part of the Olas logo) alongside or without text in a way that implies the Olas DAO’s endorsement or sponsorship of a project, service, product or individual.
-* Misrepresent, embellish, or invent a relationship between the Olas DAO or any of its contributors and you (for example by implying a partnership where there exists only a grant, or referring to non-finalized agreements). The Olas DAO and its contributors likely have official partnerships and specific language about these partnerships, as well as non-partnership language guidance. If you are not an official partner, please don’t use “collaborated with,” “worked with,” or “partnered with,” in any form. (See above for accurate language.)
+* Use the Pearl logo (or part of the logo) alongside or without text in a way that implies the Pearl/Valory/Olas DAO’s endorsement or sponsorship of a project, service, product or individual.
+* Do not alter the logos in any way, including colors.
 
 ### Talking about building on and other relationships to Olas
 Marketing describing actions taken on or with Olas should use language describing the action taken, see the 'action taken' column, rather than the above discouraged language. You are encouraged to market your use of Olas and the Olas DAO may (collectively via 'Contribute' their autonomous AI-ified DAO Ops and marketing tool) decide to tweet and/or otherwise market your content.
@@ -31,7 +32,7 @@ Marketing describing actions taken on or with Olas should use language describin
 |---|---|---|
 | Commitment to build |  | Limited marketing support, no external marketing | 
 | Integrated | Announce the integration | Resharing the integration announcement |
-| Built an Olas ['autonomous service' or component thereof](https://olas.network/build) | Announce and provide educational materials about your work | Resharing, writing original content about your work, refer you to ecosystem podcasts and other media outlets|
+| Built an Olas ['agent' or component thereof](https://olas.network/build) | Announce and provide educational materials about your work | Resharing, writing original content about your work, refer you to ecosystem podcasts and other media outlets|
 | Something else | Get in touch in the [Olas DAO Discord](https://discord.com/invite/z2PT65jKqQ) | Signpost or propose appropriate marketing|
 
 #### Talking about products built on Olas
@@ -51,9 +52,12 @@ Marketing describing actions taken on or with Olas should use language describin
 
 
 ## Assets   
-## Powered by Olas badge
-If you are "building on Olas" – i.e. an active user of the Olas protocol, stack, autonomous services, agents or components built using Olas – you are encouraged to use the “Powered by Olas” badge to recognize this. 
-By using these Badges you agree to the Olas DAO's Usage Terms (see below). 
+### Pearl logo
+Find the Pearl logo assets [here](https://drive.google.com/drive/folders/1fyyM3LrMFHf6vTPf4FMZZSVUd8hK7xmp?usp=sharing).
+
+
+### Powered by Olas badge
+Building an agent in Pearl means your agent is powered by Olas. You are encouraged to use the “Powered by Olas” badge to recognize this. By using these Badges, you agree to the Olas DAO's Usage Terms (see below). 
 
 ![in-context-powered-by-olas-white](https://github.com/contentwillvary/press-kit-olas/assets/106149667/cbbd228a-6a71-40cb-ae19-43383fbd99dd) ![in-context-powered-by-olas-black](https://github.com/contentwillvary/press-kit-olas/assets/106149667/fa286621-6910-4ed7-941e-e7ceec1d325d)
 
@@ -66,83 +70,54 @@ By using these Badges you agree to the Olas DAO's Usage Terms (see below).
 [Download the Powered by Olas badges here](https://github.com/contentwillvary/press-kit-olas/files/14792945/powered_by_olas_badges.zip)
 
 ### Logos 
-By using the Olas DAO's Logos you are agreeing to the its Usage Terms (see below).
-* [Download the logos here](https://drive.google.com/drive/folders/1mQqehTDhwASh0o7GvGi4s_NNJbyal_Ya?usp=drive_link).
 
 | Do | Do not | 
 |---|---|
-| Feature the Olas logo in articles, blog posts or other media mentions describing Olas' own work | Alter the Olas logo in any way, including colors |
-| | Use the Olas logo or logomark as part of, or in combination with another logo for any purpose |
+| Feature the Pearl logo in articles, blog posts or other media mentions describing Pearl | Alter the Pearl logo in any way, including colors |
+| | Use the Pearl logo or logomark as part of, or in combination with another logo for any purpose |
 
 ### Fonts
-* Primary, for headlines: Manrope Extrabold, [available here](https://fonts.google.com/specimen/Manrope)
+* Primary, for headlines: Inter, [available here](https://fonts.google.com/specimen/Inter)
 * Secondary, for body copy: Inter, [available here](https://fonts.google.com/specimen/Inter)
 
 ## Usage Terms 
-The term “Marks” includes anything the Olas DAO uses to identify the Olas DAO's products, goods or services, including its names, logos, icons, and design elements. By using Olas’s Marks, you agree that the Olas DAO owns them and that any goodwill generated by your use benefits the Olas DAO. Your permission to use Olas' Marks is limited in the following ways:
+The term “Marks” includes anything the Olas DAO or its members use to identify their products, goods or services, including names, logos, icons, and design elements. By using the Marks, you agree that the Olas DAO or its members own them and that any goodwill generated by your use benefits them. Your permission to use the Marks is limited in the following ways:
 
-* You can only use Olas' Marks as allowed by these brand guidelines.
-* The permission the Olas DAO grants is non-exclusive (the DAO can give it to others) and non-transferable (you cannot give it to others).
-* You should not feature Olas' Marks more prominently than your own company’s name or marks.
-* The Olas DAO may update this guide, and you must follow changes within a reasonable time.
-* The Olas DAO can review your use of its Marks and require changes if needed.
-* The Olas DAO may terminate your permission to use its Marks at any time, and you must stop using them promptly.
-* Please ensure your project follows all Olas usage policies. If your project leverages the Olas DAO's technology or Sites, it is preferred you use the “Powered by Olas” badge provided above. 
+* You can only use the Marks as allowed by these brand guidelines.
+* The permission the owner grants is non-exclusive (the owner can give it to others) and non-transferable (you cannot give it to others).
+* You should not feature the Marks more prominently than your own company’s name or marks.
+* This guide may be updated, and you must follow changes within a reasonable time.
+* Your use of the Marks may be reviewed and required to changes if needed.
+* The owner of the Marks may terminate your permission to use its Marks at any time, and you must stop using them promptly.
+* Please ensure your project follows the usage policies. If your agent is built in Pearl on Olas, it is preferred you use the “Powered by Olas” badge provided above. 
 
-## Information about Olas & Press Releases 
-When mentioning the Olas DAO or its members or contributors in your press materials, it is kindly asked that you review the following information.
+## Information about Pearl & Press Releases 
+When mentioning the Pearl in your press materials, it is kindly asked that you review the following information.
 
 ### Key information
 #### One liner
-* Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. 
+* The world's only AI agent store with powerful agents working for you — as your co-worker, your coach, your assistant.
+#### Tagline
+* User-owned AI for a human-first future.
+#### Short boilerplate
+* Pearl is a self-custodial AI agent app store that allows people to run and own autonomous AI agents directly on their devices. Through a simple desktop app, users can set up, manage, and monitor agents that perform real work across digital environments, with full visibility and control, and the potential to earn OLAS crypto activity rewards.
 
-#### Boilerplate
-* Olas is the platform that enables true co-ownership of AI. With Olas’ [Pearl](https://olas.network/pearl), the first “AI Agent App Store”, any consumer with a laptop can use AI agents they truly own. With Olas’ [Mech Marketplace](https://olas.network/mech-marketplace), the “AI Agent Bazaar”, businesses can put their AI agent up for hire to earn crypto and tap into other AI agents’ services. Today, Olas’ AI Agents serve diverse use cases - from prediction markets and asset management to influencer agents - autonomously creating valuable outcomes. The [OLAS utility token](https://olas.network/olas-token) provides access to the platform’s benefits and coordinates agent interactions in entire AI Agent economies. Launched in 2021 as one of the first Crypto x AI projects, today, Olas powers the largest AI agent economies with millions of transactions. Learn more at [olas.network](https://olas.network).
+#### Additional context
+Pearl agents can perform real, measurable work (such as prediction market trading, executing user-defined DeFi portfolio management, and social media audience growth) autonomously while you sleep or play. Pearl agents run locally on your device, not centralized servers, and you can see what your agent is doing at all times. You can fund the agent you wish to run simply by using a credit or debit card.
+
+Pearl is built on [Olas](https://olas.network), the platform for user-owned AI agents, and developed by [Valory](https://valory.xyz), the core contributors to the Olas ecosystem.
 
 #### More on...
-##### The Olas ecosystem
-* The Olas ecosystem boasts more than 1000+ agents, including collaborations with notable projects such as [Gnosis Chain, Celo, Solana, Balancer, Ceramic, DeFi Wonderland, and others](https://olas.network/#ecosystem).
-##### The Olas Protocol
-* [Olas Protocol](https://olas.network/protocol) grows code and capital via novel mechanisms including [Bonding](https://olas.network/blog/code-capital-attracting-capital-via-bonding) and [Developer Rewards](https://olas.network/blog/code-capital-attracting-code-via-developer-rewards), and [Triple Lock](https://github.com/valory-xyz/autonolas-aip/blob/aip-1/content/aips/core-aip-triple-lock.md). Agent operators are incentivized via a unique blend of Proof of Work and Proof of Stake: [Olas Staking, using Proof of Active Agent (PoAA)](https://staking.olas.network/).
-##### The Olas Stack
-* [Olas Stack](https://olas.network/stack) is perfect for combining crypto and AI, autonomous services built using Olas can run decentralized, complex logic, off-chain whilst interacting with on- and off-chain data autonomously and continuously.
-##### The name - Olas/Autonolas?
-* At launch, the project was called 'Autonolas' which combined 'autonomy' and 'olas'. 'Olas' means 'waves' in Spanish. Now, the project goes by the nickname 'Olas', for short.
-##### The symbol ☴
-* ☴ is a hexagram from the Yi Ching, the oldest known book. It represents wind and symbolically reinforces 'olas' which means waves in Spanish. Together, they create a sense of vibrancy as generated by Olas' autonomous agents, who generate waves of activity on top of the blockchain.
 
 #### Useful links & statistics
 ##### Try it out
-  * [Run your own agent](https://olas.network/pearl), via the simple desktop app, Pearl. Getting simpler all the time!
-##### Statistics
-  * [Main statistics](http://olas.network)
-  * [Token statistics](https://olas.network/olas-token)
-  * [Agent economy statistics - Predict](https://olas.network/agent-economies/predict)
-  * [More ecosystem statistics](https://dune.com/adrian0x/autonolas-ecosystem-activity)
-##### Learn more
-   * [Main site](https://olas.network)
-   * [Learn about the different ways to use Olas](https://olas.network/olas-token#choose-your-role)
-   * [Read the whitepapers](https://olas.network/whitepaper) (including the general whitepaper, summary whitepaper, tokenomics whitepaper and staking whitepaper)
-   * Public progress updates
-     * [Weekly](https://x.com/autonolas/status/1676576697863507968)
-     * [Quarterly](https://olas.network/quarterly-updates)
-##### Token links
-   * [Main resource, inc. current distribution](https://olas.network/olas-token)
-   * [FAQ, inc. token allocation at launch](https://olas.network/faq)
-   * [More token statistics](https://dune.com/adrian0x/olas)
-   * [CoinMarketCap](https://coinmarketcap.com/currencies/autonolas/)
-   * [CoinGecko](https://www.coingecko.com/en/coins/autonolas)
-   * Convenience API endpoints for OLAS supply:
-     * [Total Supply](https://api.olas.autonolas.tech/total_supply)
-     * [Circulating Supply](https://api.olas.autonolas.tech/circulating_supply)
-##### Social links
-  * [Community hub inc. co-owned AI marketing tool](https://contribute.olas.network)
-  * [Twitter](https://twitter/autonolas)
-  * [Discord](https://discord.com/invite/z2PT65jKqQ)
-  * [Youtube](https://www.youtube.com/@autonolas)
-
-#### Video Appearances 
-* [Recent video appearances](https://olas.network/videos)
+  * [Run your own agent](https://pearl.you), via the simple desktop app, Pearl. Getting simpler all the time!
+  * [See live stats for Polystrat, the autonomous prediction agent on Polymarket, live in Pearl](https://www.pearl.you/polystrat)
+  * [Read about prediction agents on Pearl including live statistics](https://olas.network/agent-economies/predict)
+  * [Twitter](https://twitter/pearldotyou)
+  * [Recent video appearances](https://olas.network/videos)
 
 ## Further Questions
-* If you have any questions about this Press Kit, please reach out in the [Olas Discord](https://discord.com/invite/z2PT65jKqQ).
+* Media inquiries: [media@pearl.you](mailto:media@pearl.you)
+* Partnerships: [info@valory.xyz](mailto:media@pearl.you)
+* General: [info@valory.xyz](mailto:media@pearl.you)
