@@ -1,5 +1,5 @@
 # Pearl Brand and Press Kit
-This Pearl Brand and Press Kit summarizes the Valory's Brand Guidelines (inc. use of language and assets) and Information about Pearl (e.g. for Press Releases).
+This Pearl Brand and Press Kit summarizes the Brand Guidelines (inc. use of language and assets) and Information about Pearl (e.g. for Press Releases).
 
 ![Pearl brand](https://github.com/user-attachments/assets/1a4cee4b-c03c-4fc6-b917-0280db9495a8)
 
