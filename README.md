@@ -84,16 +84,16 @@ The term “Marks” includes anything the Olas DAO or its members use to identi
 * The permission the owner grants is non-exclusive (the owner can give it to others) and non-transferable (you cannot give it to others).
 * You should not feature the Marks more prominently than your own company’s name or marks.
 * This guide may be updated, and you must follow changes within a reasonable time.
-* Your use of the Marks may be reviewed and required to changes if needed.
+* Your use of the Marks may be reviewed and required to change if needed.
 * The owner of the Marks may terminate your permission to use its Marks at any time, and you must stop using them promptly.
-* Please ensure your project follows the usage policies. If your agent is built in Pearl on Olas, it is preferred you use the “Powered by Olas” badge provided above. 
+* Please ensure your project follows the usage policies. If your agent is built in Pearl on Olas, it is preferred that you use the “Powered by Olas” badge provided above. 
 
 ## Information about Pearl & Press Releases 
 When mentioning the Pearl in your press materials, it is kindly asked that you review the following information.
 
 ### Key information
 #### One liner
-* The world's only AI agent store with powerful agents working for you — as your co-worker, your coach, your assistant.
+* The world's only AI agent app store with powerful agents working for you — as your co-worker, your coach, your assistant.
 #### Tagline
 * User-owned AI for a human-first future.
 #### Short boilerplate
@@ -101,14 +101,14 @@ When mentioning the Pearl in your press materials, it is kindly asked that you r
 
 #### Additional context
 
-  * Pearl agents can perform real, measurable work (such as prediction market trading, executing user-defined DeFi portfolio management, and social media audience growth) autonomously while you sleep or play. Pearl agents run locally on your device, not centralized servers, and you can see what your agent is doing at all times. You can fund the agent you wish to run simply by using a credit or debit card. Pearl is built on [Olas](https://olas.network), the platform for user-owned AI agents, and developed by [Valory](https://valory.xyz), the core contributors to the Olas ecosystem.
+  * Pearl agents can perform real, measurable work (such as prediction market trading, executing user-defined DeFi portfolio management, games, and social media audience growth) autonomously while you sleep or play. Pearl agents run locally on your device, not centralized servers, and you can see what your agent is doing at all times. You can fund the agent you wish to run simply by using a credit or debit card (or a crypto wallet). Pearl is built on [Olas](https://olas.network), the platform for user-owned AI agents, and developed by [Valory](https://valory.xyz), the core contributors to the Olas ecosystem.
 
 #### Useful links
-  * [Run your own agent](https://pearl.you), via the simple desktop app, Pearl. Getting simpler all the time!
-  * [See live stats for Polystrat, the autonomous prediction agent on Polymarket, live in Pearl](https://www.pearl.you/polystrat)
-  * [Read about prediction agents on Pearl including live statistics](https://olas.network/agent-economies/predict)
-  * [Twitter](https://twitter.com/pearldotyou)
-  * [Recent video appearances](https://olas.network/videos)
+  * [Try Pearl - the world's only AI agent app store with powerful agents working for you, all via a simple desktop app](https://pearl.you)
+  * Pearl's Polystrat agent trades on Polymarket on autopilot while you do something else. [Learn more and see their live stats here](https://www.pearl.you/polystrat)
+  * [Learn more about prediction agents on Pearl, including prediction accuracy here](https://olas.network/agent-economies/predict)
+  * [Pearl's X (formerly Twitter) account](https://twitter.com/pearldotyou)
+  * Pearl in the news: [see recent video appearances here](https://olas.network/videos)
 
 ## Further Questions
 * Media inquiries: [media@pearl.you](mailto:media@pearl.you)
