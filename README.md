@@ -53,7 +53,7 @@ Marketing describing actions taken on or with Olas should use language describin
 
 ## Assets   
 ### Pearl logo
-Find the Pearl logo assets [here](https://drive.google.com/drive/folders/1fyyM3LrMFHf6vTPf4FMZZSVUd8hK7xmp?usp=sharing).
+[Download the Pearl logo assets here](https://github.com/valory-xyz/brand-and-press-kit-pearl/releases/download/v1.0/pearl-press-kit-assets.zip).
 
 | Do | Do not | 
 |---|---|
@@ -111,6 +111,6 @@ When mentioning the Pearl in your press materials, it is kindly asked that you r
   * Pearl in the news: [see recent video appearances here](https://olas.network/videos)
 
 ## Further Questions
-* Media inquiries: [media@pearl.you](mailto:media@pearl.you)
-* Partnerships: [info@valory.xyz](mailto:media@pearl.you)
-* General: [info@valory.xyz](mailto:media@pearl.you)
+* Media inquiries: [info@valory.xyz](mailto:info@valory.xyz)
+* Partnerships: [info@valory.xyz](mailto:info@valory.xyz)
+* General: [info@valory.xyz](mailto:info@valory.xyz)
